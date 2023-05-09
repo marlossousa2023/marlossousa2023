@@ -21,6 +21,7 @@ I'm Marlos Sousa a front-end developer in the search for my career transition. F
 <p><bold>Languages and Tools<bold/><br><br>
 <a href="http://www.w3.org/html/logo/">
 <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="63" height="64" alt="HTML5 Powered" title="HTML5 Powered">
+<img width=65px src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
 </a>
 </p>
 
