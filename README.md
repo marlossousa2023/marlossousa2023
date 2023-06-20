@@ -7,8 +7,10 @@ I'm Marlos Sousa a front-end developer in the search for my career transition. F
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3-logo"/>
- 
- -Ask me about anything <a href="https://www.linkedin.com/in/marlos-randofo-brito-de-sousa-92b2a1235/">here</a>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<br>
+-Ask me about anything <a href="https://www.linkedin.com/in/marlos-randofo-brito-de-sousa-92b2a1235/">here</a>
 
 <p><strong>#Connect with me:<strong></p>
 
